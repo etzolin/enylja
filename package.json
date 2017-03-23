@@ -1,0 +1,17 @@
+{
+  "name": "enylja",
+  "version": "0.1",
+  "description": "Blog template for Enylja",
+  "main": "index.js",
+  "repository": "https://github.com/etzolin/enylja",
+  "author": "Lars Åkerlund",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "css-loader": "^0.27.3",
+    "node-sass": "^4.5.1",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.0",
+    "webpack": "^2.3.1"
+  }
+}
